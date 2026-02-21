@@ -1,1 +1,1 @@
-A chatbot-based QnA for basic medications, pill reminders that send emails, and a buzzer/notification system for aiding the elderly. Equipped with a physical system that can dispense two different types of pills simultaneously.
+
